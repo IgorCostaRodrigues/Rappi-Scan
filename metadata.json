@@ -1,0 +1,10 @@
+{
+  "name": "Remix: EAN Scanner RAPPI",
+  "description": "Uma ferramenta prática e rápida para extrair códigos de barras (EAN) de fotos ou screenshots usando IA, e gerar o código de barras correspondente e um QR code.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
